@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.crtl-prototype-studios.clientcommands_forge_port.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "clientcommands_forge_port.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
